@@ -1,0 +1,15 @@
+C:\Users\bowha\source\repos\shopping list lab\shopping list lab\bin\Debug\net6.0\shopping list lab.exe
+C:\Users\bowha\source\repos\shopping list lab\shopping list lab\bin\Debug\net6.0\shopping list lab.deps.json
+C:\Users\bowha\source\repos\shopping list lab\shopping list lab\bin\Debug\net6.0\shopping list lab.runtimeconfig.json
+C:\Users\bowha\source\repos\shopping list lab\shopping list lab\bin\Debug\net6.0\shopping list lab.dll
+C:\Users\bowha\source\repos\shopping list lab\shopping list lab\bin\Debug\net6.0\shopping list lab.pdb
+C:\Users\bowha\source\repos\shopping list lab\shopping list lab\obj\Debug\net6.0\shopping list lab.csproj.AssemblyReference.cache
+C:\Users\bowha\source\repos\shopping list lab\shopping list lab\obj\Debug\net6.0\shopping list lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bowha\source\repos\shopping list lab\shopping list lab\obj\Debug\net6.0\shopping list lab.AssemblyInfoInputs.cache
+C:\Users\bowha\source\repos\shopping list lab\shopping list lab\obj\Debug\net6.0\shopping list lab.AssemblyInfo.cs
+C:\Users\bowha\source\repos\shopping list lab\shopping list lab\obj\Debug\net6.0\shopping list lab.csproj.CoreCompileInputs.cache
+C:\Users\bowha\source\repos\shopping list lab\shopping list lab\obj\Debug\net6.0\shopping list lab.dll
+C:\Users\bowha\source\repos\shopping list lab\shopping list lab\obj\Debug\net6.0\refint\shopping list lab.dll
+C:\Users\bowha\source\repos\shopping list lab\shopping list lab\obj\Debug\net6.0\shopping list lab.pdb
+C:\Users\bowha\source\repos\shopping list lab\shopping list lab\obj\Debug\net6.0\shopping list lab.genruntimeconfig.cache
+C:\Users\bowha\source\repos\shopping list lab\shopping list lab\obj\Debug\net6.0\ref\shopping list lab.dll
